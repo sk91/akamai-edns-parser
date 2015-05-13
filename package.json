@@ -1,0 +1,25 @@
+{
+  "name": "akamai-edns-parser",
+  "version": "1.0.0",
+  "description": "Allows you to parse, update and generate edns xmls",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node --test-dir './tests'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk91/akamai-edns-parser.git"
+  },
+  "keywords": [
+    "edns",
+    "akami",
+    "xml",
+    "api"
+  ],
+  "author": "Kovalov Maxim <max.kovalov@gmail.com> (https://github.com/sk91)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sk91/akamai-edns-parser/issues"
+  },
+  "homepage": "https://github.com/sk91/akamai-edns-parser#readme"
+}
